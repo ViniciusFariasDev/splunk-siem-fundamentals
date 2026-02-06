@@ -37,4 +37,4 @@ Splunk Basics
 - Incident investigation workflow
 
 
-
+![splunk]/(screenshots/splunk-events.png)
