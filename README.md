@@ -36,5 +36,5 @@ Splunk Basics
 - Field extraction
 - Incident investigation workflow
 
-## Repository Structure
+
 
