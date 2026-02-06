@@ -37,4 +37,5 @@ Splunk Basics
 - Incident investigation workflow
 
 
-![splunk]/(screenshots/splunk-events.png)
+![splunk](screenshots/splunk-events.png)
+![splunk](screenshots/splunk-event-vpn.png)
